@@ -1,0 +1,159 @@
+﻿
+A Appendix: Instructions
+This appendix provides the English translations of the instructions for the 4I treatment.
+
+A.1 Introduction
+This is an experiment in the economics of market decision-making. You will be compensated at the end of the experiment based on your decisions. So, it is important that you understand the instructions completely. We will ask you a 7-question quiz at the end of the instructions. If you answer these 7 questions correctly, you will earn an extra bonus of 5 CNYs.
+   If you have a question during the experiment, please raise your hand, and a monitor will approach you. Otherwise, you should not communicate in any way with anyone else.
+   In this experiment, you can buy and sell units of two different assets, X and Y. Units of X will be exclusively traded in the X Market, while units of Y will be exclusively traded in the Y Market. The X and Y Markets will operate simultaneously.
+   The currency in these markets is called Experimental Currency Units (ECUs). At the end of the experiment, your ECUs will be converted into CNY at 1 CNY = 650 ECUs.
+
+A.2 Trader Types
+There are 3 types of traders in this experiment. You will be randomly assigned to one of these trader types, and your type will remain the same for the entire experiment.
+The trader types will be identified as I, II, and III.
+There will be 12 Type I traders, 8 Type II traders, and 4 Type III traders.
+You will be informed of your trader type at the conclusion of the instructions as follows:
+
+
+The specifics of each trader type will be discussed later in these instructions.
+
+A.3 Traders’ Endowments of Cash and Units
+The experiment is broken up into a sequence of 15 market periods. Every period will last 4 minutes. The time remaining (in seconds) will be noted in the top right corner of the screen. At the beginning of each market period, traders will be given cash and units:
+Type I Traders will be given 858 in Cash, 3 Units of X, and 6 Units of Y.
+   Type II traders will be randomly divided into 2 groups. One group will consist of 3 Type II traders. These traders will be given 1378 in Cash, 2 Units of X, and 4 Units of Y. The other group will consist of 5 Type II Traders. These traders will be given 1898 in Cash, 1 Unit of X, and 2 Unit of Y.
+Type III Traders will be given 1898 in Cash, 1 Unit of X, and 2 Unit of Y.
+   You will start each market period with this same amount of cash and units. That is, your cash and units will not carry over from one period to the next period.
+   At any point in a market period, you can see the amount of cash and units you hold in the section of the screen called ‘Your Current Holdings’.
+   For example, if you are a trader of Type I you start the market with 858 in cash, 3 units of Asset X and 6 units of Asset Y. At the beginning of the market period, these values will appear in the row ‘Total Owned’ highlighted below.
+
+
+
+A.4 Asset Values for Type I and Type II Traders
+You can trade X units in the X market and Y units in the Y market during each market period. If you are a trader of Type I or II, the amount each unit pays its owner at the end of a market period is based upon the State: A, B or C. Each State occurs with equal chances, that is their probability of occurrence is 1/3. The payoffs for each Asset X or Y across each State (A, B or C) are described in the table below:
+
+
+
+   So, at the end of each market period, if an X unit is owned by a Type I or Type II trader, then it will pay 50 ECUs if the State is A, 240 ECUs if the State is B, or 490 ECUs if the State is C to that trader. A Y unit will pay 25 ECUs if the State is A, 120 ECUs if the State is B, or 245 ECUs if the State is C to the trader who owns it.
+   Note that units of X pay the same amount to both Type I and Type II traders. Similarly, units of Y pay the same amount to both Type I and Type II traders.
+   The State (A, B or C) was randomly determined for each market period before the start of the experiment. This means that the amount units pay in one market period does not provide any information about the amount units will pay in another market period. It also means that the state is equally likely to be A, B, or C in a given market period.
+The manner in which Type III Traders earn money is described on later pages.
+
+A.5 Private Signals
+At the beginning of each market period, Type I traders will receive a private signal regarding the State (A, B or C) for that period. Type I traders will receive one of the following signals depending on the true state:
+1. NOT A
+2. NOT B
+3. NOT C
+   Suppose for example that the true state is A, in the ‘Asset Value’ section of the screen of a Type I trader indicates that the State is NOT B and that the value of Asset X will not be 240 and Asset Y is Not 120.
+
+
+   Each market period the Type I traders are divided into two groups of six. Each group is given a different signal. For example, when the asset State is A six Type I traders receive the signal “NOT B” and the other six Type I traders get the signal “NOT C”. So in the example above six Type I traders get the screen displayed and the other six Type I traders get the screen below:
+
+
+   Type II and Type III traders will not receive a private signal. Thus, they will only know that the asset’s value has equal chances of being in state A, B or C. The ‘Asset Value’ section of the screen will show question marks ‘?’ for those traders as below as shown below.
+
+
+
+A.6 Earnings for Type I and Type II Traders
+If you are a Type I or Type II trader, then your earnings for the experiment equal the sum of your earnings from each market period. And, your earnings from a market period equal the cash you have at the end of the market period plus the value of any X and Y units you own at the end of the market period.
+Period Profit = Cash + X value * X units + Y value * Y units
+   Suppose you have 500 ECUs in cash, 3 X units, and 2 Y units at the end of a market period. Further, suppose the State is A. This means each X unit pays you 50, and each Y unit pays you 25. Then your earnings from this market period are:
+500 + 3 * 50 + 2 * 25 = 700 ECUs
+   During a market period, you can track your provisional profit on your screen. For each State, your provisional profit shows the earnings you would obtain if the market were to close instantaneously. Type I traders will see their provisional profits for the 2 possible states, while Type II traders will see their provisional profits for each possible State (A, B, C). With 500 in cash, 3 X units, and 2 Y units, a Type II trader’s provisional profit is:
+
+
+
+A.7 Earnings for Type III Traders
+Similar to Type I and Type II traders, if you are a Type III trader, your earnings for the experiment equal the sum of your earnings from each market period. However, your earnings from a market period are calculated differently from the earnings of Type I and Type II traders.
+Period Profit = Bundles * Commission
+   Type III traders earn ECUs by creating bundles of units where one bundle is defined as 1 unit of X and 2 units of Y. For each bundle a Type III trader owns at the end of a market period, the Type III trader will be paid a commission of 520 ECUs.
+   Suppose you have 500 ECUs in cash, 3 X units, and 6 Y units at the end of a market period. Your unit holdings correspond to 3 bundles, each composed of 1 X unit and 2 Y units. Thus, your earnings from this market period are:
+3 * 520 = 1560 ECUs
+Note that your cash amount of 500 ECUs is not included in your earnings.
+   Here is another example. Suppose you have 500 ECUs in cash, 4 X units, and 6 Y units at the end of a market period. Even though you hold 1 more unit of X than the previous example, you only have 3 bundles composed of 1 X unit and 2 Y units. Thus, your earnings from this market period are:
+3 * 520 = 1560 ECUs
+   If you are a trader of Type III, your provisional profit shows the number of bundles you own times the commission. In the example below, your provisional profit is equal to 3 (the number of bundles you have composed) times the commission (520), that is 1560.
+
+
+A.8 Price Charts
+A chart displaying each transaction price for Market X (Market Y) is located on the bottom of the screen to the left (right) of the ‘Account History’ table. The x-axis corresponds to the transaction number (e.g., 1, 2, 3, . . . ), while the y-axis corresponds to the trading price. If there are more than 10 transactions in a period, then the x-axis will automatically rescale to display all transactions. The y-axis will range from 0 to 600. Trading prices greater than 600 ECUs will appear in the Transaction Details section of the screen but not on the chart.
+
+
+
+A.9 Account History Table
+Regardless of your trader type, at the bottom of the screen (under ‘Account History’) you will see a summary of your final position in all prior market periods. Suppose you are currently in market period 2. The image below shows that you ended the first market period with 5 units of Asset X, 4 units of Asset Y, and 130 in cash. The value of X units and Y units was equal to 240 and 120, respectively.
+   If you are a trader of Type I or II, your earnings would thus be equal to your cash (130) plus the value of your units (5 * 240 + 4 * 120= 1680), that is 1810 ECUs.
+
+
+   If you are a trader of Type III, your earnings would thus be equal to the number of bundles you composed (2) multiplied by the commission of 520, that is 1040 ECUs.
+
+
+
+A.10 Trading (Offers to Buy)
+During a market period, traders can buy or sell Asset X and Asset Y units from one another by making Bids (Offers to Buy) or Asks (Offers to Sell). To create a Bid for Asset X (Asset Y), you have to type in the price you would like to buy in the Bid box on the left side of the trading screen for Asset X (Asset Y). Note that you will not be able to create a Bid with a higher price than your available cash, because you would not have enough money to buy the unit. You may view how much cash you have available for Bids by looking at the Cash amount in the ‘Available’ row of the ‘Your Current Holdings’ table. The image below shows a case in which you have no cash available to buy units. You have no cash available because the cash you own (500 in the Cash column for ‘Total Owned’ in the image below) has already been used to place Bids (see 500 in the Cash column for ‘Offered’).
+
+
+   However, this cash has not been spent yet. If you want to increase your cash available, you can delete some of your Bids (identified by blue font and the ‘***’ symbol in the ‘My BID’ column next to your bid amount in the ‘Outstanding BID’ column) by selecting them and clicking on the ‘Delete’ button at the bottom of your screen. You may not delete your bid if it is currently the best (highest) bid in the market.
+   In the example screen below, a new Bid of 50 ECUs has been entered for Asset X. To confirm the new Bid of 50 ECUs, you have to click on ‘Submit’ right below your Bid. The new Bid will then appear in the ‘Outstanding BID’ column. Because you submitted this Bid, the symbol ‘***’ appears next to it in the ‘My BID’ column. The My BID column is left blank for Bids submitted by other traders.
+
+
+
+   Another trader can now accept the new Bid of 50 that you have just made by clicking on the ‘Immediately SELL’ button at the bottom of the screen. The transaction price will then appear in the middle column ‘Transaction Details’ (see image below). Because you bought the asset the Buy/Sell column will indicate ‘Buy’ so that you can keep track of what you are buying and selling.
+
+
+   As a result of the transaction, the Bid will no longer appear in the ‘Outstanding Bid’ column.
+   Because the Bid of 50 has been accepted, you have bought one unit of Asset X at a price of 50 from another trader. Your cash, as shown in ‘Your Current Holdings’ will thus go down by 50 and the number of Asset X units you hold will increase by one. The trader who sold the unit to you will increase his or her cash by 50 and hold one unit less of Asset X.
+   The upper part of the trading screen referred to as ‘Transaction Summary’ shows the average value of a transaction for a given asset (X or Y) in a given market period (see
+
+Average) as well as the first transaction price in the period (see Open) along with the minimum and maximum transaction prices in the period (see Low and High).
+   Note that if you submit a Bid (Offer to Buy) that is greater than the current lowest Ask (Offer to Sell), then you will automatically buy one unit of the asset at the current lowest Ask price.
+
+A.11 Trading (Offers to Sell)
+Creating a new Ask (Offer to Sell) for a unit works the same way as creating a new Bid, except that you have to place your offers in the Ask box instead of the Bid box. Note that you will not be able to create an Ask for Asset X (Asset Y) if you do not have available units of Asset X (Asset Y). This is the case when the row ‘Available’ in the section of the screen called ‘Your Current Holdings’ shows a value of 0 for the Asset (X or Y) you want to sell. The image below shows a case in which you have two units of Asset X available for sale but no units of Asset Y available for sale. You have no units of Asset Y available for sale because the only unit of Asset Y that you own (see the Asset Y column for ‘Total Owned’ in the image below) has already been offered for sale (see the Asset Y column for ‘Offered’ that has a value of 1). However, these offered units have not been sold yet. If you want to increase your units available, you can delete some of your Asks (identified by blue font and the ‘***’ symbol in the ‘My ASK’ column next to your ask amount in the ‘Outstanding ASK’ column) by selecting them and clicking on the ‘Delete’ button at the bottom of your screen. You may not delete your ask if it is currently the best (lowest) ask in the market.
+
+
+   In the example screen below, a new Ask of 70 ECUs has been entered for Asset Y. To confirm the new Ask of 70 ECUs, you have to click on ‘Submit’ right below your offer. The new Ask will then appear in the ‘Outstanding ASK’ column. Because this Ask was submitted by yourself the symbol ‘***’ appears on the ‘My ASK’ column. The My ASK column is left blank for Asks submitted by other traders.
+
+
+
+   Another trader can now accept the new Ask of 70 that you have just made by clicking on the ‘Immediately BUY’ button at the bottom of the screen. The transaction price will then appear in the middle column ‘Transaction Details’. Because you sold the asset the Buy/Sell column will indicate ‘Sell’ so that you can keep track of what you are buying and selling. As a result of the transaction, the Ask will not be available anymore in the ‘Outstanding Ask’ column.
+
+
+   Because the Ask of 70 has been accepted, you have sold one unit of Asset Y at 70 to another trader. Your cash, as shown in ‘Your Current Holdings’ will thus go up by 70 and the number of Asset Y units you hold will decrease by one. The trader who bought the unit from you will decrease his or her cash by 70 and hold one more unit of Asset Y.
+   Note that if you submit an Ask (Offer to Sell) that is less than the current highest Bid (Offer to Buy), then you will automatically sell one unit of the asset at the current highest Bid price.
+
+A.12 Trading (Order Book)
+Several Bids or Asks can be available at the same time for each Asset. In the example screen below, there are three Bids (285, 280, 270) and three Asks (340, 350, 355) available for Asset
+X. Note that the lowest (best) Ask and the highest (best) Bid appear at the top of the list (Marked in the blue background). The ‘***’ symbol in the ‘My ASK’ column indicates you submitted the Ask of 350.
+
+
+   To sell a unit of an asset, click the ‘Immediately SELL’ button. This will cause you to sell one unit of the asset at the highest Outstanding BID amount (285 in the above image). To buy a unit of an asset, click the ‘Immediately BUY’ button. This will cause you to buy one unit of the asset at the lowest Outstanding ASK amount (340 in the above image).
+   Note that you cannot accept one of your own bids or asks. You will receive an error message if you highlight one of your own bids (asks) and click the ‘Immediately SELL’ (‘Immediately BUY’) button.
+
+A.13 End-of-Period Screen
+At the end of each market trading period, you will be informed of the true State, the value of X and Y units, your holdings of cash and units, as well as your profit for the period. If you are a Type I or Type II trader, then you will see a screen similar to the following:
+
+
+If you are a Type III trader, then you will see a screen similar to the following:
+
+
+
+
+A.14 End-of-Experiment Screen
+At the end of the experiment you will be shown your earnings from each market period as well as your final earnings for the entire experiment in CNY.
+
+A.15 Summary
+1. There will be 15 market periods. Every period will last 4 minutes.
+2. You will be given the same amount of cash and units to start each market period.
+   3. Traders can buy and sell units of two different assets, X and Y. X units will trade in the X market and Y units will trade in the Y market. You can trade in both markets.
+
+   4. You can submit Bids and Asks or accept available offers from other traders to trade units.
+   5. The amount units pay to their owners at the end of a market period is based on the state (A, B, or C) for Type I and Type II as follows. All States are equally likely.
+
+   6. There are 12 Type I traders, 8 Type II traders, and 4 Type III traders. The trader type you will be assigned will not change for the entire experiment.
+   7. At the beginning of a market period, Type I traders will receive a private signal inform- ing them which State will not occur. Type II and Type III traders will not receive a private signal.
+   8. Market period earnings of Type I and Type II traders are equal to the amount of cash they have at the end of a market period plus the value of their X and Y units.
+   9. Market period earnings of Type III traders are equal to the number of bundles of units they hold at the end of a market period times a commission of 520. To compose one bundle, Type III traders need to hold 1 unit of Asset X and 2 units of Asset Y.
+   10. Before starting with the 15 market periods, you will participate in 2 practice periods that will not be paid so that you can get familiar with the software.
+   11. Your earnings for the experiment equal the sum of your earnings from each market period (converted to CNY at 1 CNY = 650 ECUs) plus a 20 CNY show-up payment.
+
+

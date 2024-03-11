@@ -1,0 +1,46 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Run",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "${env:PYTHONPATH}:${workspaceFolder}:${workspaceFolder}/src"
+            },
+            "justMyCode": true
+        },
+        {
+            "name": "Python: Debug",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "env": {
+                "PYTHONPATH": "${env:PYTHONPATH}:${workspaceFolder}"
+            },
+            "stopOnEntry": false,
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Python: Streamlit",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "streamlit",
+            "args": [
+                 "run",
+                 "${file}",
+                 "--server.port",
+                 "8501"
+            ]
+        },
+        {
+            "name": "Python: Profile",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "cProfile",
+            "args": ["-o", "${fileBasenameNoExtension}.cprof", "${file}"]
+        }
+    ]
+}

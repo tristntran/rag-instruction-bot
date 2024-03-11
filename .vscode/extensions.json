@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "njpwerner.autodocstring",
+        "stkb.rewrap",
+        "ms-python.python",
+        "ms-toolsai.jupyter",
+        "eamodio.gitlens",
+        "tal7aouy.icons",
+        "ms-python.pylint",
+        "ms-python.black-formatter"
+    ]
+}
