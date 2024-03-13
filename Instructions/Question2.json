@@ -1,0 +1,8 @@
+{
+	Order: 2,
+	QuestionSource: "A person purchased a share of Y for 47 and held the share until the period ended. If the outcome is X, how much money did this person make as a result of the trade?",
+	QuestionSourceType: "Text",
+	Answer: "-47",
+	AnswerType: "Integer",
+	Hint: "Since the outcome is X, Y shares are worth 0. So the correct answer is -47."
+}

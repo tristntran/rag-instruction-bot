@@ -1,0 +1,12 @@
+{
+	Order: 4,
+	QuestionSource: "If a person receives the signal that the Outcome is Not Y, which kinds of shares are worth 100? (Check all that are correct).",
+	QuestionSourceType: "Text",
+	Answer: "X",
+	AnswerType: "MultipleSelect",
+	AnswerChoices: [
+		"X",
+		"Y"
+	],
+	Hint: "The correct answer is X."
+}

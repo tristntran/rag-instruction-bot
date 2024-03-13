@@ -6,5 +6,5 @@ def random_response(message, history):
     return random.choice(["Yes", "No"])
 
 
-
-gr.ChatInterface(random_response).launch()
+if __name__ == "__main__":
+    gr.ChatInterface(random_response).launch()

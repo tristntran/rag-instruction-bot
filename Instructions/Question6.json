@@ -1,0 +1,13 @@
+{
+	Order: 6,
+	QuestionSource: "If you receive the signal Outcome is Not X and someone else enters an Ask of 20 for X then:",
+	QuestionSourceType: "Text",
+	Answer: "Accepting the Ask would result in you buying a share for 20. Holding the share until the end of the period would result in you losing 20",
+	AnswerType: "MultipleChoice",
+	AnswerChoices: [
+		"Accepting the Ask would result in you buying a share for 20. Holding the share until the end of the period would result in you earning 80",
+		"Accepting the Ask would result in you buying a share for 20. Holding the share until the end of the period would result in you losing 20",
+		"Accepting the Ask would result in you buying a share for 20. Holding the share until the end of the period would result in you losing 20 or earning 80, but you cannot determine the amount at that moment",
+	],
+	Hint: "Since you know the outcome is Not X, the share is worth 0. Paying 20 for a share worth 0 will result in losing 20."
+}

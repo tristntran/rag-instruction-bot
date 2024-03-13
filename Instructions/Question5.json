@@ -1,0 +1,13 @@
+{
+	Order: 5,
+	QuestionSource: "If you receive the signal Outcome is Not Y and someone else enters a Bid of 35 for Y then:",
+	QuestionSourceType: "Text",
+	Answer: "Accepting the Bid would result in you selling a share and earning 35, while holding the share would result in you earning 0",
+	AnswerType: "MultipleChoice",
+	AnswerChoices: [
+		"Accepting the Bid would result in you selling a share and earning 35, while holding the share would result in you earning 0",
+		"Accepting the Bid would result in you selling a share and earning 35, while holding the share would result in you earning 100",
+		"Accepting the Bid would result in you selling a share and earning 35, while holding the share would result in you earning either 0 or 100, but you cannot determine the amount at that moment",
+	],
+	Hint: "Since you know the outcome is Not Y, holding the share at the end of the period will result in you earning 0 for the share."
+}

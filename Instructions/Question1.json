@@ -1,0 +1,13 @@
+{
+	Order: 1,
+	QuestionSource: "At the end of each period, share values are:",
+	QuestionSourceType: "Text",
+	Answer: "Either 0 or 100",
+	AnswerType: "MultipleChoice",
+	AnswerChoices: [
+		"0",
+		"100",
+		"Either 0 or 100"
+	],
+	Hint: "The correct answer is either 0 or 100."
+}

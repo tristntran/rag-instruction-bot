@@ -6,3 +6,4 @@ sentence-transformers==2.5.1
 gpt4all==2.2.1.post1
 chromadb==0.4.24
 gradio==4.21.0
+pypdf2==3.0.1
